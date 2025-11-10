@@ -1,5 +1,7 @@
 # Blinkit Power BI Dashboard
 
+![Blinkit Dashboard](Blinkit_Dashboard_Preview.png)
+
 ## 📊 Project Overview
 This Power BI project is based on Blinkit’s sales data.  
 I created an interactive dashboard to explore how different products, outlet sizes, and locations affect overall sales performance.  
